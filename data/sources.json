@@ -1,0 +1,18 @@
+[
+  {"name": "debug-pods", "doc_type": "troubleshooting",
+   "url": "https://kubernetes.io/docs/tasks/debug/debug-application/debug-pods/"},
+  {"name": "debug-running-pod", "doc_type": "troubleshooting",
+   "url": "https://kubernetes.io/docs/tasks/debug/debug-application/debug-running-pod/"},
+  {"name": "deployments", "doc_type": "runbooks",
+   "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/"},
+  {"name": "pipeline-getting-started", "doc_type": "jenkins",
+   "url": "https://www.jenkins.io/doc/book/pipeline/getting-started/"},
+  {"name": "pipeline-syntax", "doc_type": "jenkins",
+   "url": "https://www.jenkins.io/doc/book/pipeline/syntax/"},
+  {"name": "actuator-endpoints", "doc_type": "api",
+   "url": "https://docs.spring.io/spring-boot/reference/actuator/endpoints.html"},
+  {"name": "postgres-connections", "doc_type": "database",
+   "url": "https://www.postgresql.org/docs/current/runtime-config-connection.html"},
+  {"name": "postmortem-culture", "doc_type": "postmortems",
+   "url": "https://sre.google/sre-book/postmortem-culture/"}
+]

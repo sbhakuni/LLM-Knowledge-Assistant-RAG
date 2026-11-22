@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+storage/
+# Downloaded public docs; own docs (without the web- prefix) are tracked
+data/docs/**/web-*.md
