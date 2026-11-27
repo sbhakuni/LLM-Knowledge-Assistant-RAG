@@ -13,6 +13,7 @@ python ingest.py                # index new/changed/deleted docs only
 python ask.py "How do I debug a pod stuck in Pending?"
 python ask.py --no-llm "..."    # retrieval only, no LLM key needed
 python ask.py --type jenkins    # interactive mode, filtered by doc type
+python eval.py                  # retrieval quality: Recall@5 and MRR on eval/questions.json
 ```
 
 ## Updating docs

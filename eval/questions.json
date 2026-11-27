@@ -1,0 +1,18 @@
+[
+  {"question": "Why does the risk calculation service fail with timeout error?",
+   "expected_source": "troubleshooting/risk-calc-timeout.md"},
+  {"question": "How do I deploy the service to QA?",
+   "expected_source": "runbooks/deploy-risk-calc-to-qa.md"},
+  {"question": "Which table contains counterparty exposure data?",
+   "expected_source": "database/exposure-tables.md"},
+  {"question": "What does ERR_RISK_404 mean?",
+   "expected_source": "errors/risk-calc-error-codes.md"},
+  {"question": "What caused the March 2025 risk calc outage?",
+   "expected_source": "postmortems/2025-03-risk-calc-outage.md"},
+  {"question": "Which Kafka topic does the risk calculation service publish to?",
+   "expected_source": "architecture/risk-calc-service.md"},
+  {"question": "How do I roll back a bad QA deployment?",
+   "expected_source": "runbooks/deploy-risk-calc-to-qa.md"},
+  {"question": "Connection is not available, request timed out in HikariPool-1",
+   "expected_source": "troubleshooting/risk-calc-timeout.md"}
+]
